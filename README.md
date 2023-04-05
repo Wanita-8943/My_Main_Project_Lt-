@@ -32,35 +32,35 @@
 # ------------------------------------------------
 
 ## All(ทุกอายุและทุกเพศ) 
-  - รอบที่ 1 ([AR1 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.1_(4e-4)AR1_Train_Freeze_250_Lt.ipynb)) ([%]())
-   - MAE: 
-   - MSE: 
-   - RMSE: 
- - รอบที่ 2 ([AR2 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.2_(4e-4)AR2_Train_Freeze_250_Lt.ipynb))  ([%]())
-   - MAE: 
-   - MSE: 
-   - RMSE: 
- - รอบที่ 3 ([AR3 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.3_(4e-4)AR3_Train_Unfreeze_250_Lt.ipynb)) ([%]())
-   - MAE: 
-   - MSE: 
-   - RMSE: 
+  - รอบที่ 1 ([AR1 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.1_(4e-4)AR1_Train_Freeze_250_Lt.ipynb)) ([5.26%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.1_(4e-4)AR1_Predict_Freeze_250_Lt.ipynb))
+   - MAE: 4.7368421052631575
+   - MSE: 30.0
+   - RMSE: 5.477225575051661
+ - รอบที่ 2 ([AR2 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.2_(4e-4)AR2_Train_Freeze_250_Lt.ipynb))  ([5.26%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.2_(4e-4)AR2_Predict_Freeze_250_Lt.ipynb))
+   - MAE: 4.7368421052631575
+   - MSE: 30.0
+   - RMSE: 5.477225575051661
+ - รอบที่ 3 ([AR3 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.3_(4e-4)AR3_Train_Unfreeze_250_Lt.ipynb)) ([13.47%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.3_(4e-4)AR3_Predict_Unfreeze_250_Lt.ipynb))
+   - MAE: 2.1315789473684212
+   - MSE: 7.563157894736842
+   - RMSE: 2.750119614623488
    
- - รอบที่ 4 ([AR4 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.4_(4e-4)AR4_Train_Unfreeze_250_Lt.ipynb)) ([%]())
-   - MAE: 
-   - MSE: 
-   - RMSE: 
+ - รอบที่ 4 ([AR4 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.4_(4e-4)AR4_Train_Unfreeze_250_Lt.ipynb)) ([13.58%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.4_(4e-4)AR4_Predict_Unfreeze_250_Lt.ipynb))
+   - MAE: 2.2726315789473683
+   - MSE: 9.053684210526315
+   - RMSE: 3.008934065499993
+  
+ - รอบที่ 5 ([AR5 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.5_(4e-4)AR5_Train_Unfreeze_250_Lt.ipynb)) ([18.53%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.5_(4e-4)AR5_Predict_Unfreeze_250_Lt.ipynb))
+   - MAE: 2.0010526315789474
+   - MSE: 7.203157894736842
+   - RMSE: 2.683869947433527
    - 
- - รอบที่ 5 ([AR5 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.5_(4e-4)AR5_Train_Unfreeze_250_Lt.ipynb)) ([%]())
-   - MAE: 
-   - MSE: 
-   - RMSE: 
-   - 
- - รอบที่ 6 ([AR6 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.6_(4e-4)AR6_Train_Unfreeze_250_Lt.ipynb)) ([%]())
-   - MAE: 
-   - MSE: 
-   - RMSE: 
+ - รอบที่ 6 ([AR6 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.6_(4e-4)AR6_Train_Unfreeze_250_Lt.ipynb)) ([26.11%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.6_(4e-4)AR6_Predict_Unfreeze_250_Lt.ipynb))
+   - MAE: 2.0873684210526315
+   - MSE: 8.75263157894737
+   - RMSE: 2.9584846761386765
  
-  - รอบที่ 7 ([AR7 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.7_(4e-4)AR7_Train_Unfreeze_250_Lt.ipynb)) ([%]())
-   - MAE: 
-   - MSE: 
-   - RMSE: 
+  - รอบที่ 7 ([AR7 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.7_(4e-4)AR7_Train_Unfreeze_250_Lt.ipynb)) ([17.47%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.7_(4e-4)AR7_Predict_Unfreeze_250_Lt.ipynb))
+   - MAE: 2.265263157894737
+   - MSE: 10.993684210526316
+   - RMSE: 3.31567251255704
