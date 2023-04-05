@@ -30,30 +30,37 @@
 # ------------------------------------------------
 # Regression
 # ------------------------------------------------
-#1
-## All(ทุกอายุและทุกเพศ) 
-  - รอบที่ 1 ([AR1 Freeze 250](https://github.com/Wanita-8943/Main_Project_Lt/blob/main/AR1_Train_Freeze_250_Lt.ipynb)) ([5.26%](https://github.com/Wanita-8943/Main_Project_Lt/blob/main/AR1_Predict_Freeze.ipynb))
- - รอบที่ 2 ([AR2 Freeze 250](https://github.com/Wanita-8943/Main_Project_Lt/blob/main/AR2_Train_Freeze_250_Lt.ipynb))  ([5.26%](https://github.com/Wanita-8943/Main_Project_Lt/blob/main/AR2_Predict_Freeze.ipynb))
- - รอบที่ 3 ([AR3 Unfreeze](https://github.com/Wanita-8943/Main_Project_Lt/blob/main/AR3_Train_Unfreeze_250_Lt.ipynb)) ([%]())
 
-   
-   
-#2 (4e-4)
 ## All(ทุกอายุและทุกเพศ) 
-  - รอบที่ 1 ([AR1 Freeze 250]()) ([%]())
+  - รอบที่ 1 ([AR1 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.1_(4e-4)AR1_Train_Freeze_250_Lt.ipynb)) ([%]())
    - MAE: 
    - MSE: 
    - RMSE: 
- - รอบที่ 2 ([AR2 Freeze 250]())  ([%]())
+ - รอบที่ 2 ([AR2 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.2_(4e-4)AR2_Train_Freeze_250_Lt.ipynb))  ([%]())
    - MAE: 
    - MSE: 
    - RMSE: 
- - รอบที่ 3 ([AR3 Unfreeze 250]()) ([%]())
+ - รอบที่ 3 ([AR3 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.3_(4e-4)AR3_Train_Unfreeze_250_Lt.ipynb)) ([%]())
    - MAE: 
    - MSE: 
    - RMSE: 
    
- - รอบที่ 3 ([AR3 Unfreeze 500]()) ([%]())
+ - รอบที่ 4 ([AR4 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.4_(4e-4)AR4_Train_Unfreeze_250_Lt.ipynb)) ([%]())
+   - MAE: 
+   - MSE: 
+   - RMSE: 
+   - 
+ - รอบที่ 5 ([AR5 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.5_(4e-4)AR5_Train_Unfreeze_250_Lt.ipynb)) ([%]())
+   - MAE: 
+   - MSE: 
+   - RMSE: 
+   - 
+ - รอบที่ 6 ([AR6 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.6_(4e-4)AR6_Train_Unfreeze_250_Lt.ipynb)) ([%]())
+   - MAE: 
+   - MSE: 
+   - RMSE: 
+ 
+  - รอบที่ 7 ([AR7 Unfreeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.7_(4e-4)AR7_Train_Unfreeze_250_Lt.ipynb)) ([%]())
    - MAE: 
    - MSE: 
    - RMSE: 
