@@ -22,9 +22,9 @@
   - รอบที่ 4 ([G4 Unfreeze 250 ]()) ([%]())
    
    ## All Age(ทุกอายุของเพศชายและเพศหญิง)
-  - รอบที่ 1 ([AC1 Freeze 250]()) ([%]())
- - รอบที่ 2 ([AC2 Freeze 250]())  ([%]())
- - รอบที่ 3 ([AC3  ]()) ([%]())
+  - รอบที่ 1 ([AC1 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/AC1_Train_Freeze_250_Lt.ipynb)) ([18.12%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/AC1_Predict_Freeze_Lt.ipynb))
+ - รอบที่ 2 ([AC2 Freeze 250](https://colab.research.google.com/drive/1a9B1azmSkmzJIct6Ykzc34sOiLH83gx6?authuser=1#scrollTo=D-hCRloc3t39))  ([20.11%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/AC2_Predict_Freeze_Lt.ipynb))
+ - รอบที่ 3 ([AC3 Unfreeze 500 ](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/AC3_Train_Unfreeze_500_Lt.ipynb)) ([19.16%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/AC3_Predict_Unfreeze_500_Lt.ipynb))
    
    
 # ------------------------------------------------
