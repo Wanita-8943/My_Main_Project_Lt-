@@ -32,10 +32,11 @@
  # ------------------------------------------------
 
  ## All(ทุกอายุและทุกเพศ) 
-   - รอบที่ 1 ([AR1 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.1_(4e-4)AR1_Train_Freeze_250_Lt.ipynb)) ([5.26%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.1_(4e-4)AR1_Predict_Freeze_250_Lt.ipynb))
+  - รอบที่ 1 ([AR1 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.1_(4e-4)AR1_Train_Freeze_250_Lt.ipynb)) ([5.26%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.1_(4e-4)AR1_Predict_Freeze_250_Lt.ipynb))
     - MAE: 4.7368421052631575
     - MSE: 30.0
     - RMSE: 5.477225575051661
+  
   - รอบที่ 2 ([AR2 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.2_(4e-4)AR2_Train_Freeze_250_Lt.ipynb))  ([5.26%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/5.2_(4e-4)AR2_Predict_Freeze_250_Lt.ipynb))
     - MAE: 4.7368421052631575
     - MSE: 30.0
