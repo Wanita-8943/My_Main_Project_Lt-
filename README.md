@@ -18,7 +18,7 @@
    - รอบที่ 1 ([G1 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/G1Lt_Train_Freeze_250.ipynb))   ([68.21%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/G1Lt_Predict_Freeze.ipynb)) 
    - รอบที่ 2 ([G2 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/G2Lt_Train_Freeze_250.ipynb))  ([65.16%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/G2Lt_Predict_Freeze.ipynb))
    - รอบที่ 3 ([G3 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/(1e-4)G3_Train_Freeze_250.ipynb)) ([66.95%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/(1e-4)G3Lt_Predict_Freeze_250.ipynb))
-   - รอบที่ 4 ([G4 Unfreeze 250 ](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/2.3_(1e_4)G4Lt_Train_Unfreeze_250.ipynb)) ([68.74%]((https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/2.3_(1e-4)G4Lt_Predict_Unfreeze_250.ipynb))
+   - รอบที่ 4 ([G4 Unfreeze 250 ](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/2.3_(1e_4)G4Lt_Train_Unfreeze_250.ipynb)) ([68.74%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/2.3_(1e-4)G4Lt_Predict_Unfreeze_250.ipynb))
 
   ## All Age(ทุกอายุของเพศชายและเพศหญิง)
    - รอบที่ 1 ([AC1 Freeze 250](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/AC1_Train_Freeze_250_Lt.ipynb)) ([18.12%](https://github.com/Wanita-8943/My_Main_Project_Lt-/blob/main/AC1_Predict_Freeze_Lt.ipynb))
